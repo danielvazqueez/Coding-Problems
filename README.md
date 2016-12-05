@@ -1,2 +1,2 @@
 # Coding-Problems
-Solutions of problems from online judges
+Solutions of problems from COJ
